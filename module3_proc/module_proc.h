@@ -8,6 +8,7 @@
 #include<linux/proc_fs.h>
 #include<asm/uaccess.h>
 
+#define NAME_DIR "test_proc_dir"
 #define NAME "test_module"
 #define MSG_LENGTH 160
 
